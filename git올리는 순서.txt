@@ -1,0 +1,24 @@
+git로그인후-> 폴더 생성 오른쪽에 NEW선택후
+ Repository name-> 폴더이름 정하고 Public선택후
+아래 create repository
+
+올릴 폴더인지 확인 후 
+$  -->git bash 반드시 git 명령어 입력
+
+$ git init  -> 저장소 초기화이므로 한번만 실행
+$ git add .  -> 파일 수정이 모두 되면 
+$ git commit -m "exhibitin project ver1"
+301-13@DESKTOP-IO0MQ17 MINGW64 /c/yeonsuk/exibition쌤수정본/exhibition (master)  -> master일 경우 메인으로 변경
+$ git branch -M main
+$ git remote add origin https://
+$ git push -u origin main
+
+올리고 확인
+내가만든 폴더 선택후
+setting /pages/Build and deployment/Branch에서
+main체크하고 save선택하고
+
+
+git메뉴 위쪽에 Actions에서 올라가는 과정확인
+
+
