@@ -393,7 +393,7 @@ table th, table td{padding-left: 30px;}
 
 /* table {margin-left: 15px;}  */
 .de_time th {font-size: 18px; vertical-align: top;}
-.de_time td {font-size: 18px;}
+.de_time td {font-size: 16px;padding-left: 20px;}
 .de_Box3 h3 {font-size: 20px;font-weight: 900;padding-left: 20px;}
 .de_Box4 h3{font-size: 20px;font-weight: 900;}
 .de_Box3 img {width: 200px;margin: 20px 0 10px 20px;}
@@ -602,7 +602,7 @@ text-align: justify;}
   width: 100%;
 }
 .my_conBox3 p{
-  /* text-align: right; */
+  text-align: justify;
   font-weight: 700;
   padding: 20px 10px 20px 20px; 
 }
