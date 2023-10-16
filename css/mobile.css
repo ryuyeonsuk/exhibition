@@ -461,7 +461,7 @@ text-align: justify;}
   border-radius: 50%;
   background-color: #ff9551;
   position: absolute;
-  top: 10em;left: 6.250em;}
+  top: 10em;left: 5.313em;}
 .myPage_icon2 {
   width: 80%;
   margin: 0 auto;}
@@ -496,9 +496,9 @@ text-align: justify;}
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  background-color: #e2b1b1;
+  background-color: #f45050;
   position: absolute;
-  top: 13.333em;left: 75%;}
+  top: 13em;left: 75%;}
 
 .myPage_Box2 .circle_2 {
   width: 20px;
@@ -506,11 +506,11 @@ text-align: justify;}
   border-radius: 50%;
   background-color: #ff9551;
   position: absolute;
-  top: 11.333em;left: 75%;}
+  top: 14.563em;left: 75%;}
 .myPage_Box2 p{
-  line-height: 28px;
+  line-height: 26px;
   position: absolute;
-  top: 167px; left: 80%;
+  top: 190px; left: 83%;
 }
 .midB0x3/* ,.midB0x4 */ {
   padding: 130px 0;
